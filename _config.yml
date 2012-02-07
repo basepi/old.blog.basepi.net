@@ -2,9 +2,9 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://blog.cmyers.net
-title: Me, Myself, and Colton
-subtitle: Leading to a rapid loss of interest since 2011
+url: http://blog.basepi.net
+title: base pi
+subtitle: ...because base ten is just too boring.
 author: Colton Myers
 simple_search: http://google.com/search
 description:
@@ -81,7 +81,7 @@ googleplus_user:
 googleplus_hidden: false
 
 # Pinboard
-pinboard_user:
+pinboard_user: basepi
 pinboard_count: 3
 
 # Delicious
@@ -89,11 +89,11 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name: blogcmyersnet
+disqus_short_name: blogbasepinet
 disqus_show_comment_count: true
 
 # Google Analytics
-google_analytics_tracking_id: UA-27886516-1
+google_analytics_tracking_id: UA-27897304-1
 
 # Facebook Like
 facebook_like: true
