@@ -142,4 +142,4 @@ Here's a recent article on the subject: [Link][1]
 
 Sorry for my rambling, be sure to leave a comment below with your opinions.
 
-[1]: http://mycm.us/j
+[1]: http://www.foxnews.com/scitech/2011/10/26/iphone-4s-vs-android-phones-whats-better-for/

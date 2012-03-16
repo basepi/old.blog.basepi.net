@@ -42,4 +42,4 @@ Windows Server, but don't quote me on that.  ;-)
 
 Anyway, I highly recommend [you check them out][1]!  =)
 
-[1]: http://mycm.us/p
+[1]: http://vps.net/

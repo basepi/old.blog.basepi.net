@@ -132,7 +132,7 @@ finding it intuitive, straightforward, and full of features that make my job
 easier as a programmer.  And I hope that it treats you as well.  =)
 
 
-[1]: http://mycm.us/3
+[1]: https://profiles.google.com/u/0/106066712316258581810/about
 [2]: http://plus.google.com
-[3]: http://mycm.us/4
-[4]: http://mycm.us/5
+[3]: http://www.linuxjournal.com/article/3882
+[4]: http://pythonconquerstheuniverse.wordpress.com/category/java-and-python/

@@ -10,6 +10,6 @@ categories:
 makes some really good points, and his slides [really are beautiful][2].  I
 want to see more presentations with these design pointers in mind.
 
-[1]: http://mycm.us/12
-[2]: http://mycm.us/13
-[3]: http://mycm.us/github
+[1]: http://zachholman.com/posts/slide-design-for-developers/
+[2]: http://zachholman.com/talk/how-github-uses-github-to-build-github
+[3]: https://github.com/

@@ -32,5 +32,5 @@ the non-major tech companies as well -- they're just not as visible)
 
 Leave your thoughts in the comments.  And speak up to stop SOPA and Protect-IP!
 
-[1]: http://mycm.us/10
-[2]: http://mycm.us/11
+[1]: http://www.popularmechanics.com/science/mythbusters/articles/mythbuster-adam-savage-sopa-could-destroy-the-internet-as-we-know-it-6620300
+[2]: http://www.stanfordlawreview.org/online/dont-break-internet
