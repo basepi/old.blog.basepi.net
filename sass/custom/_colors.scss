@@ -2,26 +2,26 @@
 // To give it a try, uncomment some of the lines below rebuild your blog, and see how it works.
 // If you need a handy color picker try http://hslpicker.com
 
-$page-bg: #151515;
-
-$nav-bg: #999999;
-$nav-bg-front: none;
-$nav-bg-back: #999999;
-
-$header-bg: #252525;
-//$title-color: lighten(#073642, 13);
-$title-color: #eeeeee;
-$subtitle-color: $title-color;
-
-$main-bg: #eeeeee;
-$text-color: #151515;
-$text-color-light: #454545;
-$link-color: lighten(#073642, 5);
-$link-color-hover: darken($link-color, 10);
-$link-color-visited: $link-color;
-$sidebar-bg: #aaaaaa;
-$sidebar-color: change-color(mix($text-color, $sidebar-bg, 80), $hue: hue($sidebar-bg), $saturation: saturation($sidebar-bg)/2);
-$sidebar-link-color-subdued: $sidebar-color;
+//$page-bg: #151515;
+//
+//$nav-bg: #999999;
+//$nav-bg-front: none;
+//$nav-bg-back: #999999;
+//
+//$header-bg: #252525;
+////$title-color: lighten(#073642, 13);
+//$title-color: #eeeeee;
+//$subtitle-color: $title-color;
+//
+//$main-bg: #eeeeee;
+//$text-color: #151515;
+//$text-color-light: #454545;
+//$link-color: lighten(#073642, 5);
+//$link-color-hover: darken($link-color, 10);
+//$link-color-visited: $link-color;
+//$sidebar-bg: #aaaaaa;
+//$sidebar-color: change-color(mix($text-color, $sidebar-bg, 80), $hue: hue($sidebar-bg), $saturation: saturation($sidebar-bg)/2);
+//$sidebar-link-color-subdued: $sidebar-color;
 
 
 
