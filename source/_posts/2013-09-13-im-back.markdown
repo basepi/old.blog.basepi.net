@@ -7,7 +7,7 @@ categories: ['Miscellaneous']
 ---
 
 Well, at long last I got around to re-installing Ruby on my machine, updated
-Octopress, and got my blogs settles.  I'm back!
+Octopress, and got my blogs settled.  I'm back!
 
 So what's been going on in the interim?  Let's hit the top two:
 
