@@ -8,7 +8,7 @@ footer: true
 
 Computers.
 
-I got pulled in at a pretty young age.  First it was the computer games -- _Load
+I got pulled in at a pretty young age.  First it was the computer games -- _Lode
 Runner_ on our black-and-white Macintosh; later, _Warcraft 2_ on our 486.  It
 just escalated from there.  I still play a lot of video games (my parents will
 tell you that I play way too much, and they're probably right), but the less...
